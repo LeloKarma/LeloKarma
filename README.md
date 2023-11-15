@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @LeloKarma
 - 👀 I’m interested in software engineering
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on software engineering
-- 📫 How to reach me sharonlelo6@gmail.com
+- 🌱 I’m currently learning dev
+- 💞️ I’m looking to collaborate on any projects
+-
 
 <!---
 LeloKarma/LeloKarma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

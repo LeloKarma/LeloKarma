@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LeloKarma
-- 👀 I’m interested in software engineering
+- 👀 I’m interested in software engineering && ethical hacking!!
 - 🌱 I’m currently learning dev
 - 💞️ I’m looking to collaborate on any projects
 -

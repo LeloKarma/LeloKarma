@@ -2,7 +2,8 @@
 - 👀 I’m interested in software engineering && ethical hacking!!
 - 🌱 I’m currently learning dev
 - 💞️ I’m looking to collaborate on any projects
--Build🚀.. Learn➰.. Improve✨..
+  
+- Build🚀.. Learn➰.. Improve✨..
 
 <!---
 LeloKarma/LeloKarma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

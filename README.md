@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Sharon Djimafo 
 
-## Software Developer | Backend Engineer | Cloud & Automation Enthusiast
+### Software Developer | Backend Engineer | Cloud & Automation Enthusiast
 
 Passionate software developer dedicated to transforming ideas and business requirements into reliable, scalable, and impactful digital solutions. With experience across backend development, cloud technologies, workflow automation, and modern web applications, I enjoy building systems that solve real-world challenges while continuously improving my technical expertise.
 
@@ -17,7 +17,7 @@ My work spans technologies such as C#, .NET, Symfony, PHP, Azure, Next.js, and t
 * System Architecture and Process Optimization
 * Modern Web Development
 
-## 💻 Professional Values
+### 💻 Professional Values
 
 * Continuous Learning
 * Problem Solving
@@ -26,20 +26,20 @@ My work spans technologies such as C#, .NET, Symfony, PHP, Azure, Next.js, and t
 * User-Centered Development
 * Long-Term Maintainability
 
-## 🎯 Current Focus
+### 🎯 Current Focus
 
 * Building scalable and maintainable software solutions
 * Expanding expertise in cloud technologies and modern development practices
 * Exploring AI-powered tools and automation
 * Contributing to projects that create meaningful business impact
 
-## 💡 Philosophy
+### 💡 Philosophy
 
 Every project is an opportunity to learn something new, build something better, and improve both the solution and the process behind it.
 
 Technology is constantly evolving, and growth comes from embracing challenges, staying curious, and continuously refining skills and solutions.
 
-## 🚀 Motto
+### 🚀 Motto
 
 **Learn. Build. Improve.**
 

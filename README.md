@@ -6,7 +6,7 @@ Passionate software developer dedicated to transforming ideas and business requi
 
 My work spans technologies such as C#, .NET, Symfony, PHP, Azure, Next.js, and the Microsoft Power Platform ecosystem. Whether designing APIs, developing enterprise applications, automating business processes, or optimizing existing systems, I focus on delivering maintainable solutions that create measurable value.
 
-## 🛠️ What I Do
+### 🛠️ What I Do
 
 * Backend Development with C#/.NET and PHP/Symfony
 * REST API Design and Integration
